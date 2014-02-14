@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Health Bracelet/Health Bracelet.iml" filepath="$PROJECT_DIR$/Health Bracelet/Health Bracelet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HealthBracelet.iml" filepath="$PROJECT_DIR$/HealthBracelet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NavUtilsSupport/NavUtilsSupport.iml" filepath="$PROJECT_DIR$/NavUtilsSupport/NavUtilsSupport.iml" />
+    </modules>
+  </component>
+</project>
+
